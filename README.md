@@ -7,3 +7,6 @@ The first project section includes a heading (h3) with a link to the "Movie Rank
 The second project section includes a heading (h3) with a link to the "Birthday Invite Project" page. An image preview of the project is displayed.
 Another horizontal line (hr) separates the project sections.
 Links (a) are provided to navigate to different sections of the portfolio, including "flex basis," "About Me," and "Contact Me."
+
+
+
